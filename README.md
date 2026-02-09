@@ -1,4 +1,4 @@
-# Malik — ICT Business Analyst
+# 👋 Malik — ICT Business Analyst
 
 I'm a BA focused on translating complex business requirements into clear, actionable technical requirements.
 
