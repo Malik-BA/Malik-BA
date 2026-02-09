@@ -37,7 +37,7 @@ I've created this profile to showcase my thought process in requirements analysi
 - API requirement analysis examples
 - Process improvement case studies
 
-These repositories are designed to demonstrate **how I think and analyse problems**, not to showcase software development.
+These repositories are designed to demonstrate **how** I think and analyse problems, *not* to showcase software development.
 
 ---
 
