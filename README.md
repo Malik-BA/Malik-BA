@@ -1,16 +1,45 @@
-## Hi there 👋
+# Malik — ICT Business Analyst
 
-<!--
-**Maalikule/Maalikule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a BA focused on translating complex business requirements into clear, actionable technical requirements.
 
-Here are some ideas to get you started:
+I work at the intersection of business, systems, and technology—collaborating and liaising with stakeholders, developers, and architects to align solutions with business outcomes and deliver them efficiently.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I've created this profile to showcase my thought process in requirements analysis, system thinking, and documentation in modern Agile and technical environments.
+
+---
+
+## Core Competencies
+- Business & Systems Analysis
+- Functional & Non-functional Requirements
+- User Stories & Acceptance Criteria
+- Process Analysis (As-is / To-be)
+- API & System Integration Analysis
+- Stakeholder Engagement
+- Agile / Scrum / SDLC
+- Requirements Traceability
+
+---
+
+## Tools & Technologies
+- Jira, Confluence
+- GitHub (Documentation & version control)
+- REST APIs (Analysis & specification)
+- SQL (Analysis-level understanding)
+- Power BI / Excel
+- BPMN / UML (Conceptual)
+
+---
+
+## What you'll find here
+- Sample Business Requirement Documents (BRDs)
+- Functional and non-functional specifications
+- Agile user stories & acceptance criteria
+- API requirement analysis examples
+- Process improvement case studies
+
+These repositories are designed to demonstrate **how I think and analyse problems**, not to showcase software development.
+
+---
+
+📫 **Contact**
+- LinkedIn: https://www.linkedin.com/in/maalikmohammad/
