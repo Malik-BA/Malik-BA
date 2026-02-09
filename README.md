@@ -21,7 +21,7 @@ I've created this profile to showcase my thought process in requirements analysi
 ---
 
 ## Tools & Techs
-- Jira, Confluence
+- Confluence, Jira
 - GitHub (Documentation & version control)
 - REST APIs (Analysis & specification)
 - SQL (Analysis-level understanding)
